@@ -4,9 +4,11 @@ date: 2018-02-15 11:19:54
 tags:
   -Books
 ---
-# The 50th Law • • •
-Robert Greene, 50 Cent
-
+---
+# The 50th Law
+## • • •
+## Robert Greene, 50 Cent
+---
 ## Thoughts & Conclusion
 
 ***
