@@ -10,7 +10,7 @@ tags:
 ## Simon Sinek
 ---
 ## Thoughts & Conclusion
-> It's not what you do, but why you do it.
+> People don't buy what you do, they buy why you do it.
 
 Watch this YouTube lecture if you don't have time to read the book. It's got the major takeaways.
 
