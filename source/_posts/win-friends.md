@@ -6,13 +6,12 @@ tags:
 ---
 ---
 How to Win Friends and Influence People
----
 Dale Carnegie
 ---
 # TL;DR
 
 ---
-# Part 1
+
 ## Principle 1
 >Don't criticize, condemn, or complain.
 
@@ -50,7 +49,7 @@ Human Needs:
 
 > If there is any one secret of success, it is the ability to get the other person's point of view and see things from that person's angle as well as from your own.
 
-
+# Part 2
 ## Make People Like You
 
 1. Become genuinely interested in others
@@ -67,6 +66,8 @@ Human Needs:
 6. How to make people like you instantly
   - gentleness + friendliness > fury + force
   - begin in a friendly manner
+
+# Part 3 (?)
 7. Secret of Socrates
   - begin in the affirmative
   - pride makes people remain consistent in stance
@@ -112,6 +113,7 @@ Win people to your way of thinking:
 11. Dramatize your ideas
 12. Throw down a challenge
 
+# Part 4
 ## Be a Leader
 1. Addressing fault
   - "A barber lathers a man before he shaves him."
