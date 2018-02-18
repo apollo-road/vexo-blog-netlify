@@ -5,8 +5,7 @@ tags:
   -Books
 ---
 ---
-How to Win Friends and Influence People
-Dale Carnegie
+Dale Carnegie - How to Win Friends and Influence People
 ---
 # TL;DR
 
